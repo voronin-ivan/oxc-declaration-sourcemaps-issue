@@ -1,0 +1,21 @@
+{
+  "name": "oxc-declaration-sourcemaps-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate:tsc": "node generate-dts-tsc.js",
+    "generate:oxc": "node generate-dts-oxc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voronin-ivan/oxc-declaration-sourcemaps-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/voronin-ivan/oxc-declaration-sourcemaps-issue#readme",
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "oxc-transform": "^0.36.0",
+    "typescript": "^5.6.3"
+  }
+}
