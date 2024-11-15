@@ -1,0 +1,1 @@
+{"mappings":"AAAA","names":[],"sources":["playground.ts"],"sourcesContent":["import { multiply } from './math'\n\nconsole.log(multiply(2, 2))"],"version":3}
