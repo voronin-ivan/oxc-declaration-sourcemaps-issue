@@ -1,5 +1,7 @@
 # oxc-declaration-sourcemaps-issue
-
+  
+https://github.com/oxc-project/oxc/issues/7340  
+  
 ``` bash
 nvm use
 npm ci
